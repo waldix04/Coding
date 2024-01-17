@@ -1,0 +1,9 @@
+# Aufgabenstellung
+# finde das minimum und maximum einer Liste
+# Entferne/ Vermeide alle duplikate
+
+def find_max_min(input_list):
+    return max(input_list), min(input_list)
+
+def remove_duplicates(input_list):
+    return(list(set(input_list)))
