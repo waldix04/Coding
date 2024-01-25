@@ -25,7 +25,9 @@ print(z)
 # Insert the correct syntax to assign values to multiple variables in one line:
 x,y,z = "Orange","Banana","Cherry"
 print(x,y,z)
+
 # Alternative: print(x+y+z)
+# Funktioniert aber nicht wenn man eine zahl und ein string ausgeben will.
 
 # Aufgabe 6
 # Insert the correct syntax to assign the same value to all three variables in one code line.
