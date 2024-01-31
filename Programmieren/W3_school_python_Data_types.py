@@ -25,8 +25,19 @@ print(type(x))
 
 x = ["apple","banana","cherry"]
 print(type(x))
-# Das Ergebnis ist eine Liste. Da es in einem Array steht
+# Das Ergebnis ist eine LISTE. Da es in einem Array steht
 
 # Aufgabe 5
 # The following code example would print the data type of x, what data type would that be?
+
+x = ("apple", "banana", "cherry")
+print(type(x))
+# Ergebnis = Tuple
+
+#Aufgabe 6
+# The following code example would print the data type of x, what data type would that be?
+
+x = {"name" : "John", "age" : 36}
+print(type(x))
+# Ergebnis = dict = dictionary
 
