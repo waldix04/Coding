@@ -1,7 +1,7 @@
 {
     "html": {
         "snippets": {
-            "!": "!!!+html[lang='de']>(head>(meta[charset='UTF-8']+title{Document}))+body",
+            "!": "!!!+html[lang='de']>(head>(meta[charset='UTF-8']+title{Document}+link)+body",
             "rick": "img[src='https://wierbicki.org/_demo/img/rick-astley.gif' alt='Rick Astley ']"
         }
     }
