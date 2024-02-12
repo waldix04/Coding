@@ -4,9 +4,9 @@ Hallo, ich bin Waldemar, ein leidenschaftlicher Softwareentwickler und Enthusias
 
 ## Aktuelle Projekte
 
-- [Projekt 1](Link zum Projekt 1): Kurze Beschreibung des Projekts.
-- [Projekt 2](Link zum Projekt 2): Kurze Beschreibung des Projekts.
-- [Projekt 3](Link zum Projekt 3): Kurze Beschreibung des Projekts.
+- [GourmetGuide](Link zum Projekt 1): Kurze Beschreibung des Projekts.
+- [Discord_Bot](Link zum Projekt 2): Kurze Beschreibung des Projekts.
+- [snake](Link zum Projekt 3): Kurze Beschreibung des Projekts.
 
 <br>
 
