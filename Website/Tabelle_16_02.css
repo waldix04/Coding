@@ -1,0 +1,13 @@
+th,td{
+    border: 1px solid #CCCCCC;
+}
+
+table {
+    width: 200px;
+    border-collapse: collapse;
+}
+
+tr:hover{
+    background: #000000;
+    color: #FFFFFF;
+}
