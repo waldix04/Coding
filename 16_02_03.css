@@ -1,0 +1,16 @@
+div {
+    background: #f00;
+}
+
+body {
+    margin: 0px;
+}
+
+.positioned {
+    background: #000000;
+    color: #FFFFFF;
+    width: 50px;
+    position: static;
+    top: 10px;
+    
+}
