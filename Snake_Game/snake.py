@@ -177,8 +177,8 @@ cell_size = 40
 cell_number = 20
 screen = pygame.display.set_mode((cell_number * cell_size,cell_number * cell_size))
 clock = pygame.time.Clock()
-apple = pygame.image.load('./Graphics/apple.png').convert_alpha()
-game_font = pygame.font.Font('./Font/PoetsenOne-Regular.ttf', 25)
+apple = pygame.image.load('Snake_Game/Graphics/apple.png').convert_alpha()
+game_font = pygame.font.Font('Snake_Game/Font/PoetsenOne-Regular.ttf', 25)
 
 SCREEN_UPDATE = pygame.USEREVENT
 pygame.time.set_timer(SCREEN_UPDATE,150)
