@@ -1,5 +1,8 @@
 import random
 import time
+#importe um die Zeit zu visualisieren
+import matplotlib.pyplot as plt
+import numpy as np
 
 def generate_arrays():
     array_lengths = [100, 200, 300,400,500,600,700,800,900,1000,2000,4000,8000,16000]
@@ -35,3 +38,7 @@ def insertion_sort():
     return sorted_arrays
 
 sorted_arrays = insertion_sort()
+
+t = np.linspace(time.time)
+
+
