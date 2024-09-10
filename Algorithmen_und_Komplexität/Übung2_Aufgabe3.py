@@ -2,7 +2,7 @@
 
 a = [1,2,3,4,5]
 
-i = 1 , länge des Arrays - 1
+#i = 1 , länge des Arrays - 1
 min = a[2]
 indexMin = i (1)
 j= 1+1 
